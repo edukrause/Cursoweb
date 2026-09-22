@@ -36,4 +36,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Projeto baseado no template [DevLinks](https://github.com/maykbrito/devlinks) da Rocketseat, personalizado por Eduardo Krause.
+Feito por Eduardo Krause.
